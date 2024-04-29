@@ -28,5 +28,7 @@
   "profile": {
     "name": "typicode"
   },
-  "otp":"1652"
+  "otp":{
+"value":"1652"
+  }
 }
