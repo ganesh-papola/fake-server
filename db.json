@@ -32,19 +32,19 @@
     "value":"1652"
   },
   "bettingAmountLists": {
-      data: [
-    {amount: 10, currency: 'INR'},
-    {amount: 50, currency: 'INR'},
-    {amount: 100, currency: 'INR'},
-    {amount: 200, currency: 'INR'},
-    {amount: 300, currency: 'INR'},
-    {amount: 400, currency: 'INR'},
-    {amount: 500, currency: 'INR'},
-    {amount: 600, currency: 'INR'},
-    {amount: 700, currency: 'INR'},
-    {amount: 800, currency: 'INR'},
-    {amount: 900, currency: 'INR'},
-    {amount: 1000, currency: 'INR'},
+      "data": [
+    {"amount": 10, "currency": "INR"},
+    {"amount": 50, "currency": "INR"},
+    {"amount": 100, "currency": "INR"},
+    {"amount": 200, "currency": "INR"},
+    {"amount": 300, "currency": "INR"},
+    {"amount": 400, "currency": "INR"},
+    {"amount": 500, "currency": "INR"},
+    {"amount": 600, "currency": "INR"},
+    {"amount": 700, "currency": "INR"},
+    {"amount": 800, "currency": "INR"},
+    {"amount": 900, "currency": "INR"},
+    {"amount": 1000, "currency": "INR"},
   ],
   }
 }
